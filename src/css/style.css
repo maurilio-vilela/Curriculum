@@ -1,0 +1,115 @@
+* {
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+
+  margin: 0;
+  padding: 0;
+}
+.bgblue {
+  background-color: #035eb4;
+}
+body {
+  display: flex;
+  background-color: #ececec;
+  color: #035eb4;
+  font-size: 13px;
+}
+body p {
+  text-align: justify;
+}
+.container {
+  margin: auto;
+  display: flex;
+}
+.container h2 {
+  font-size: 20px;
+  margin: 10px 0;
+}
+.titulo h1 {
+  font-size: 5rem;
+  font-weight: bold;
+  margin-top: -12px;
+}
+.photo {
+  width: 320px;
+  height: 450px;
+}
+.left {
+  width: 320px;
+  color: #ffffff;
+}
+.contato {
+  padding: 20px 50px;
+}
+.contato a {
+  text-decoration: none;
+  color: #ffffff;
+}
+.contato h2 {
+  font-size: 1.4rem;
+  margin: 10px 0px;
+}
+.contato p {
+  margin: 2px 0;
+}
+.right {
+  padding: 5px;
+  width: 550px;
+}
+.cargo {
+  font-size: 20px;
+  text-transform: uppercase;
+}
+.underline {
+  width: 550px;
+  border-bottom: 5px #005e9c solid;
+  margin: 20px 0;
+}
+.resumo {
+  display: flex;
+  margin: 15px 0;
+}
+.resumo h3 {
+  font-size: 2.2rem;
+  margin-top: -5px;
+}
+.resumo h4 {
+  font-size: 1.2rem;
+}
+.resumo ul {
+  margin-top: 20px;
+}
+.resumo ul li {
+  margin: 2px 0;
+}
+.resumoPro {
+  width: 300px;
+  margin-right: 15px;
+}
+.historicoProfissional {
+  display: flex;
+  margin: 0 auto;
+  width: 550px;
+  flex-wrap: wrap;
+}
+.competencias {
+  width: 250px;
+}
+.competencias ul {
+  margin-left: 15px;
+}
+.experiencias {
+  display: flex;
+  width: 550px;
+  margin-bottom: 30px;
+}
+.empresa {
+  width: 220px;
+}
+.empresa h4 {
+  text-transform: uppercase;
+  font-size: 14px;
+}
+.atividades ul {
+  width: 330px;
+  margin-left: 15px;
+}
